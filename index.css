@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+
+html, body {
+	height: 100%;
+	background-image: url("background.jpg");
+	background-size: cover;
+	padding-top: 50px;
+}
+
+.jumbotron {
+	color: white;
+	background: none;
+}
+
+.jumbotron h1 {
+	font-weight: 200;
+}
